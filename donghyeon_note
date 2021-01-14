@@ -1,0 +1,5 @@
+to implement on Colab; with Python version below 3.7, use deepfake version1
+!git clone --single-branch --branch r1.0 https://github.com/deepfakes/faceswap.git
+
+reponse to Error "no Module Name.."(Mine was 'content') 
+!python update_deps.py
